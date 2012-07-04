@@ -3,7 +3,7 @@ Contributors: billerickson
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BJ57JH34CA7A
 Tags: post, old, notification, mark
 Requires at least: 3.2.1
-Tested up to: 3.3.2
+Tested up to: 3.4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,6 +19,8 @@ Further Customization with filters:
 *	Display the notification elsewhere in your theme: http://www.billerickson.net/code/old-post-notification-display-elsewhere/
 *	Turn off default styling: http://www.billerickson.net/code/old-post-notification-remove-default-styling/
 *	Change Post Types: http://www.billerickson.net/code/old-post-notification-change-post-types/
+
+[Support Forum](https://github.com/billerickson/old-post-notification/issues) | [Contribute!](https://github.com/billerickson/old-post-notification)
 
 == Changelog ==
 
