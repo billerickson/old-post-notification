@@ -1,0 +1,10 @@
+.old-post-notification {
+	background: #FFE3E3;
+	border: 1px solid #EEB6B6;
+	padding: 10px 10px 0;
+	margin-bottom: 20px;
+}
+
+.old-post-notification p {
+	padding-bottom: 15px;
+}
