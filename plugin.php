@@ -217,4 +217,3 @@ class Old_Post_Notification {
 }
 
 $Old_Post_Notification = new Old_Post_Notification;
-?>
