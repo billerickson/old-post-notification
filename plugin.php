@@ -3,7 +3,7 @@
 Plugin Name: Old Post Notification
 Plugin URI: http://www.wordpress.org/extend/plugins/old-post-notification
 Description: Mark posts as old and display a notification message above the content.
-Version: 1.0
+Version: 1.1
 Author: Bill Erickson
 Author URI: http://www.billerickson.net
 License: GPLv2 or later
